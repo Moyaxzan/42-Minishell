@@ -7,11 +7,6 @@ Minishell is a simple shell program created as part of the 42 Common Core curric
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
