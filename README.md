@@ -58,7 +58,7 @@ To install Minishell, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/minishell.git
+    git clone https://github.com/Moyaxzan/42-Minishell
     ```
 
 2. Navigate to the project directory:
